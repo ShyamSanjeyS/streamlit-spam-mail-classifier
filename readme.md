@@ -145,11 +145,7 @@ MIT License
 
 For suggestions or feature requests, write to: `shyamsanjey.s@gmail.com`
 
-***
-
 Happy Coding! 
-
-***
 
 **(c) 2025 ShyamSanjey / SASTRA**
 
